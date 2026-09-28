@@ -1,5 +1,5 @@
 console.log("Sistema iniciado correctamente.");
 function saludar() {
-    document.getElementById("mensaje").innerText = "Acceso restringido. Por favor, identifiquese.";
+    document.getElementById("mensaje").innerText = "Hola usuario invitado.";
 }
 saludar();
